@@ -26,7 +26,7 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
 * Instituto PROA - Pro Profissão 4.0 | Programação Web
 
   Concluído em 2021.
-    [_ Ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
+    [_Ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
   <br>
 
 * Escola Estadual Eduardo Catalão - Ensino Médio
