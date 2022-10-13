@@ -14,7 +14,7 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
 * Centro Universitário SENAC - Tecnólogo em Analise e Desenvolvimento de Sistemas
 
   Cursando até 2024.
-  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
+  [_Ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
   <br>
 
 * UNINTER Centro Universitário Internacional - Bacharelado Engenharia de Software
@@ -26,7 +26,7 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
 * Instituto PROA - Pro Profissão 4.0 | Programação Web
 
   Concluído em 2021.
-    [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
+    [_ Ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
   <br>
 
 * Escola Estadual Eduardo Catalão - Ensino Médio
