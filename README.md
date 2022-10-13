@@ -32,7 +32,9 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
 * Escola Estadual Eduardo Catalão - Ensino Médio
 
   Concluído em 2019.
+
 <br>
+
 ## Experência Profissional
 
   * (2021 - Atual) <br>
@@ -43,27 +45,35 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
     * Manutenção em cumputadores.
     * Cabeamento estruturado.
     * Instalação de SO.
+
   <br>
+
   * (2020 - 2020) <br>
   **Frialy Atacadista**
   Auxiliar de Motorista.
     * Carga e descarga de caminhões e carretas.
     * Recolher pagamentos dos clientes.
+
   <br>
+
   * (2019 - 2019) <br>
   **HugoTech Electronic Center**
   Auxiliar de Eletrônica.
     * Reballing de GPUs.
     * Identificar defeitos em circuitos eletrônicos.
     * Manutenção em equipamenos eletrônicos.
+
   <br>
+
   * (2017 - 2018) <br>
   **Instituto Brasileiro de Aprendizagem Profissional – IBRASA**
   Jovem Aprendiz Para Supermercados.
     * Reposição de mercadorias.
     * Recebimento de notas.
     * Estoquista.
+
   <br>
+  
 
 ## Conhecimentos
 
@@ -113,13 +123,17 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
 ## Projetos
 
 * __Repositórios__ [Clique para vizualizar.](https://github.com/jvieira562?tab=repositories)
+
 <br>
+
 * __Dialeto__ (2021) Projeto desenvolvido para auxiliar a todos que
   desejam aprimorar suas aptidões na língua
   portuguesa, elaboração de redação,
   preparação para provas como Enem, de forma
   gratuita.
+
 <br>
+
 * __Técnico Amigo__ (2016) Manutenção de 32 computadores em escolas
 nas regiões periféricas do sul da Bahia,
 especificamente na cidade de Ilhéus.
