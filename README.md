@@ -110,7 +110,7 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
 
 ### Frameworks Back-end
 * Spring Boot.
-* .NET Framework.
+* ASP.NET MVC.
 
 ### Banco de Dados
 * MySQL.
