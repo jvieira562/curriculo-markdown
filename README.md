@@ -104,7 +104,7 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
 * C#.
 * Java Script.
 
-### Linguagens de Programação
+### Linguagens de Transação de Dados
 * JSON.
 * XML.
 
