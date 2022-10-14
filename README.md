@@ -42,7 +42,7 @@ Olá, meu nome é José Victor Vieira, gosto de explorar novas tecnologias e cod
   Jovem Aprendiz de Tecnologia da Informação.
     * Infraestrutura e Suporte.
     * Helpdesk.
-    * Manutenção em cumputadores.
+    * Manutenção em computadores.
     * Cabeamento estruturado.
     * Instalação de SO.
 
